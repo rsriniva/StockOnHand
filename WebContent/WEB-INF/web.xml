@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://java.sun.com/xml/ns/j2ee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="WebApp_ID" version="2.4" xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
+	<display-name>StockOnHandPortlet</display-name>
+	<welcome-file-list>
+		<welcome-file>index.html</welcome-file>
+		<welcome-file>index.htm</welcome-file>
+		<welcome-file>index.jsp</welcome-file>
+		<welcome-file>default.html</welcome-file>
+		<welcome-file>default.htm</welcome-file>
+		<welcome-file>default.jsp</welcome-file>
+	</welcome-file-list>
+	<jsp-config>
+		<taglib>
+			<taglib-uri>http://java.sun.com/portlet</taglib-uri>
+			<taglib-location>/WEB-INF/tld/std-portlet.tld</taglib-location>
+		</taglib>
+	</jsp-config>
+	
+	<servlet>
+		<servlet-name>sohAjaxServlet</servlet-name>
+		<servlet-class>com.myer.mypos.sohportlet.SohAjaxServlet</servlet-class>
+	</servlet>	
+	
+	<servlet-mapping>
+		<servlet-name>sohAjaxServlet</servlet-name>
+		<url-pattern>/sohAjaxServlet</url-pattern>
+	</servlet-mapping>  
+  	
+</web-app>

@@ -1,0 +1,10 @@
+ClearCase CopyAreaDB|4
+VOBs\MYER2\Portlets\StockOnHandPortlet
+2
+6
+9:.settings|2|0|0|0|c1dde8bb548541038aae2d2538d1674b|0
+12:.portletProperties|1|126d9a5fa03|133|48315e44|5f306c8fac6a43d0995947af650c3fd6|0
+3:src|2|0|0|0|d132b65ea7d445c18a158ce6584978b5|0
+8:.project|1|128840bbc76|477|eeaf77b7|dfdfab9f6ca94a2c80a1f82ccfe23132|0
+a:.classpath|1|128840bbe3b|27d|b5e0dcdc|80312eeadbe941e0901ab9afd37bb841|0
+a:WebContent|2|0|0|0|f3334bc5d3754bf6932b52c5c1cd2edc|0

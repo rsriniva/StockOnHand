@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portlet-properties>
+    <portlet name="StockOnHandPortlet">
+        <property>
+            <name>DEFAULT_PAGE</name>
+            <value>/_StockOnHandPortlet/jsp/html/StockOnHandPortletView.jsp</value>
+        </property>
+    </portlet>
+</portlet-properties>

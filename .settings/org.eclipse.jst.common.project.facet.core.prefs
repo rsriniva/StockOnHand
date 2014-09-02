@@ -1,0 +1,4 @@
+#Tue Oct 07 13:14:53 EST 2008
+classpath.helper/org.eclipse.jdt.launching.JRE_CONTAINER\:\:org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType\:\:WebSphere\ Portal\ v6.0\ JRE/owners=jst.java\:1.4
+classpath.helper/org.eclipse.jst.server.core.container\:\:com.ibm.etools.portal.runtime.provider.v6\:\:wps.base.v60/owners=jst.web\:2.4
+eclipse.preferences.version=1

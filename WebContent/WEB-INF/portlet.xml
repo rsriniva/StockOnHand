@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portlet-app xmlns="http://java.sun.com/xml/ns/portlet/portlet-app_1_0.xsd" version="1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/portlet/portlet-app_1_0.xsd http://java.sun.com/xml/ns/portlet/portlet-app_1_0.xsd" id="com.myer.mypos.sohportlet.StockOnHandPortlet.632f515dc1">
+	<portlet>
+		<portlet-name>StockOnHandPortlet</portlet-name>
+		<display-name>StockOnHandPortlet</display-name>
+		<display-name xml:lang="en">StockOnHandPortlet</display-name>
+		<portlet-class>com.myer.mypos.sohportlet.StockOnHandPortlet</portlet-class>
+		<init-param>
+			<name>wps.markup</name>
+			<value>html</value>
+		</init-param>
+		<expiration-cache>0</expiration-cache>
+		<supports>
+			<mime-type>text/html</mime-type>
+			<portlet-mode>view</portlet-mode>
+		</supports>
+		<supported-locale>en</supported-locale>
+		<resource-bundle>com.myer.mypos.sohportlet.nl.StockOnHandPortletResource</resource-bundle>
+		<portlet-info>
+			<title>StockOnHandPortlet</title>
+			<short-title>StockOnHandPortlet</short-title>
+			<keywords>StockOnHandPortlet</keywords>
+		</portlet-info>
+	</portlet>
+</portlet-app>

@@ -1,0 +1,12 @@
+ClearCase CopyAreaDB|4
+VOBs\MYER2\Portlets\StockOnHandPortlet\WebContent\WEB-INF
+2
+8
+f:ibm-web-bnd.xmi|1|126d9a6006b|126|8e956168|5e9edb5b1ec34c08aa7110e42a1c33eb|0
+1d:ibm-webservicesclient-bnd.xmi|1|126d9a60185|23c|d61ac2df|2c1d5e74d9d146f8a3425873e5b40546|0
+1d:ibm-webservicesclient-ext.xmi|1|126d9a60202|248|26abc8c9|d82c1a2bea0b45d9afc8754e546298cc|0
+7:web.xml|1|126d9a603b7|603|b0d60cb2|e37987534a5449c6a28bd69eae16cfe7|0
+f:ibm-web-ext.xmi|1|126d9a60108|1b1|6c24955d|ee32647f887b46b9a816d85a75ce665e|0
+b:portlet.xml|1|126d9a602fc|499|9ce39b62|14c6516ffd904313a883273f5cc5272a|0
+3:lib|2|0|0|0|0a4031754bbb4e12a38e8f0e2c83a835|0
+7:classes|2|0|0|0|3a47d936b6224587aba429661c56a7a4|0
